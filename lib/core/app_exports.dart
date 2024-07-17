@@ -9,7 +9,6 @@ export 'package:learnup/core/utils/pref_utils.dart';
 export 'package:learnup/core/utils/size_utils.dart';
 export 'package:learnup/data/models/selectionPopupModel/selection_popup_model.dart';
 export 'package:learnup/localization/app_localization.dart';
-export 'package:learnup/routes/app_routes.dart';
 export 'package:learnup/theme/app_decoration.dart';
 export 'package:learnup/theme/custom_text_style.dart';
 export 'package:learnup/theme/theme_helper.dart';
